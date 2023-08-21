@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "963561346107",
+    "project_id": "soul-health-care-caf3e",
+    "storage_bucket": "soul-health-care-caf3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963561346107:android:4d9ea168157d3cc80bb81e",
+        "android_client_info": {
+          "package_name": "com.example.soul_health_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963561346107-0n06jpu81fu7kagjsrcv3cgs21343diq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soul_health_care",
+            "certificate_hash": "076c838ed75ca052b5a207e7578777d9969b6b92"
+          }
+        },
+        {
+          "client_id": "963561346107-p8ha4bmhscbhn2bt6svc5a94o6evn8jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAHkMtAFPNHOXfqo-bBcEwJF6_ROwVpjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963561346107-p8ha4bmhscbhn2bt6svc5a94o6evn8jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
